@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1840cd9dedf3348fef272a45c50721cf68a5e392/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_c4ebe48b64f176bcc3ea779474ffd787fa39b2c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64afc14a46517c2460d6ac0a44c55c917e349334">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_13c890b05c2e837bc237cf0f354f23f04c799984/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_da57041e8889152bdac20df5efc1c7b77b1c9dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2febd49aaae187da111a3e4b56cdb5e14cf0ba9a">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ea8de169875fd3aa7f309f0d630673d43c6fdbdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_1a9282c0b15c0da488889648d676b38ee2bf1e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_e1cd6c468cf532981d8fff05888e07c80ad55e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_4921918863562bab89e9ba327d67cfc61e5c63be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_d823023140c7cac64a881d50dadf61424381b90a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d146f05ff13602d4b4d5c791b94d10f9ad9b0163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_eeeb56c74d510a49e319f79a35b1f4bcaaec4206/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_2d842a296277da527a57eed9b2a02caa9f9c6e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_3f27a85bfa49eb736b7268facfc0661441fab46f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_5710f0ac69caee81cbac92bfc3aaa95d81c7a441/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6bc56d164319e8f9bfc697385c214753c6316817/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_dfa7363ed891c9f9441d173b524ca1b0a5747d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_c298e0319e322260ddf4e0294edc05bf8d3f3bf9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_6b4a1e5cc03ceec3832b01a20dbb184912f8832d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/karanbagle/Desktop/Github/AndroidTeachers/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_527602e9b41d7a5f1432ece698bf9ca0016fbee4/classes.dex" />
+    </item>
+
+</items>
